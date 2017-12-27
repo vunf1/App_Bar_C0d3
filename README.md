@@ -5,6 +5,7 @@
 ## **Ideia original**
 
 # Done :
-*Pagina Inicial  [X] Front-End
-		 [ ] Back-End*
+##*Pagina Inicial*
+**__[ X ] Front-End__**
+**__[   ] Back-End__**
 
