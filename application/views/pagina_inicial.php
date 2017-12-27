@@ -16,7 +16,7 @@
 
 <div class="base" >
     <div class="conteudo" >
-    <div class="texto2">Desenvolvido a pensar em ti.<div>
+    <div class="texto2">Desenvolvido a pensar em ti.<br><a>Aproveita</a><div>
         <div class="logo"></div>
           <br><br><br><br>
         <div class="botao1 centered" >
