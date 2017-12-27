@@ -5,7 +5,7 @@
 ## **Ideia original**
 
 # Done :
-##*Pagina Inicia
-**__-[ X ] Front-End__**
-**__-[   ] Back-End__**
+## *Pagina Inicia
+**__ -[x] Front-End__**
+**__ -[ ] Back-End__**
 
