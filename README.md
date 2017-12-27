@@ -6,6 +6,6 @@
 
 # Done :
 ## *Pagina Inicia
-**__ -[x] Front-End__**
-**__ -[ ] Back-End__**
+ - [x] Front-End
+ - [ ] Back-End
 
