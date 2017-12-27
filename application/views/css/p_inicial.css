@@ -42,7 +42,7 @@
   padding: 1rem;
   text-align: center;
 }
-    .texto2 {
+    .texto{
 
           background: url(dev_t.gif);
         color: #000000;
@@ -97,5 +97,5 @@
     .centered {
         position: absolute;; /* or absolute */
           top: 50%;
-          left: 20%;
+          left: 25%;
         }
