@@ -16,7 +16,8 @@
 
 <div class="base" >
     <div class="conteudo" >
-    <div class="texto2">Desenvolvido a pensar em ti.<br><a>Aproveita</a><div>
+
+    <div class="img_opacity"></div>
         <div class="logo"></div>
           <br><br><br><br>
         <div class="botao1 centered" >
@@ -24,5 +25,8 @@
         </div>
     </div>
 </div>
+<div class="footer img_opacity">
+  <img src="<?php echo base_url('application/views/'); ?>dev_t.gif" alt="Enjoy" height="45%" width="100%">
+  </div>
 </body>
 </html>

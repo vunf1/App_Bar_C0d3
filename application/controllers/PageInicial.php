@@ -8,6 +8,7 @@ class PageInicial extends CI_Controller {
 	        parent::__construct();
 	        $this->output->set_header('Access-Control-Allow-Origin: *');
 					$this->load->helper('url');
+					$this->load->helper('html');
 	        //$this->load->model('tionmodel');
 	         //$this->load->database();
 	        //Load them in the constructor
