@@ -22,7 +22,7 @@
         <div class="logo"></div>
           <br><br><br><br>
         <div class="botao1 centered" >
-          <a class="text">Entra nesta Galaxia</a>
+          <a class="texto">Entra nesta Galaxia</a>
         </div>
     </div>
 </div>

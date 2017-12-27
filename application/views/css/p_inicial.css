@@ -21,7 +21,7 @@
         text-align: center;
     }
     .logo {
-        background-image: url(https://lh5.googleusercontent.com/wuypfsFIlFjadew0Z1cwrJR-kK0ANwsKVeUYf8-kXu5Hez17JJPF450Sraep5Nk845O2aPDyYxFOJdXy4qWr=w958-h851);
+        background-image: url(galaxia.gif);
         width: 100%;
         height: 176px;
         background-position: center;
@@ -44,7 +44,6 @@
 }
     .texto{
 
-          background: url(dev_t.gif);
         color: #000000;
         font-size: 24px;
         width: 100%;
