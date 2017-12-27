@@ -95,6 +95,6 @@
     }
     .centered {
         position: absolute;; /* or absolute */
-        
+        top:40%;
           left: 25%;
         }
