@@ -1,8 +1,11 @@
 html,body{
   height: 100%;
 }
+.max-width{
+    width: 100%;
+}
     body {
-        /*background: url(terra.png);*/
+        background: url(terra.png);
           background-color: rgb(58,58,58);
         margin: 0;
        background-repeat: repeat-x;
