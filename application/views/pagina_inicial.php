@@ -4,13 +4,15 @@
 <script type='text/javascript' src='<?php echo base_url('application/views/')?>js/pagina_inicial.js'></script>
 
 </head>
-<body>
+<body >
 
 <div class="base" >
     <div class="conteudo" >
 
     <div class="img_opacity"></div>
+    
         <div class="logo"></div>
+
           <br><br><br><br>
         <div class="botao1 centered" >
   <img src="<?php echo base_url(); ?>galaxia_logo.png" alt="Enjoy" width="auto" height="100%">
