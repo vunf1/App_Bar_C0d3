@@ -12,6 +12,7 @@ html,body{
     background-size: auto 100%;
 
     background-position: left top;
+
         /*background-size: 100%;*/
     }
     @font-face {
@@ -34,6 +35,7 @@ html,body{
         height: 190px;
 
         background-size: cover;
+        filter: invert(80%);
         /*margin: 7% auto auto auto;*/
     }
     .img_opacity{
@@ -66,14 +68,15 @@ html,body{
         font-family: open sans;
         color: #fff;
         width: 50%;
+        height: 35%;
         line-height: 2.1;
-        border: 2px solid #ef4836;
-        border-radius: 2px;
+        /*border: 2px solid #ef4836;
+        border-radius: 2px;*/
         transition: all 0.4s cubic-bezier(0.42, 0, 0.51, 0.85);
     }
     .botao1:hover {
         background-color: #d03c2d;
-        border: 2px solid #d03c2d;
+        /*border: 2px solid #d03c2d;*/
         /*Animacao*/transition: all 0.4s cubic-bezier(0.42, 0, 0.51, 0.85);
     }
     /*
@@ -104,5 +107,5 @@ html,body{
     .centered {
         position: absolute;; /* or absolute */
         top:40%;
-          left: 25%;
+          left: 15%;
         }

@@ -4,7 +4,7 @@
 <script type='text/javascript' src='<?php echo base_url('application/views/')?>js/pagina_inicial.js'></script>
 
 </head>
-<body class="framework7-root" data-gr-c-s-loaded="true">
+<body>
 
 <div class="base" >
     <div class="conteudo" >
@@ -13,12 +13,12 @@
         <div class="logo"></div>
           <br><br><br><br>
         <div class="botao1 centered" >
-  <img src="<?php echo base_url(); ?>galaxia_logo.png" alt="Enjoy" width="100%">
-          <a class="texto"></a>
+  <img src="<?php echo base_url(); ?>galaxia_logo.png" alt="Enjoy" width="auto" height="100%">
+
         </div>
     </div>
 <div class="footer img_opacity">
-  <img src="<?php echo base_url('application/views/'); ?>dev_t.gif" alt="Enjoy" height="5%" width="100%">
+  <img src="<?php echo base_url('application/views/'); ?>dev_t.gif" alt="Enjoy" height="5%" width="50%">
   </div>
 </div>
 </body>

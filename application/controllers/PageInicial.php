@@ -18,9 +18,24 @@ class PageInicial extends CI_Controller {
 
 	public function index()
 	{
+		require_once('application/libraries/Mobile_Detect.php');
+	    $detect=new Mobile_Detect();
+	    if ($detect->isMobile() || $detect->isTablet() || $detect->isAndroidOS()|| $detect->isIOS()) {
+	        /*header("Location: ".$this->config->item('base_url')."mobile"); 
+	        header("Title: Ola"); */
 
-		$this->load->view('standardLoads');
-		$this->load->view('pagina_inicial');
+			$this->load->view('standardLoads');
+			$this->load->view('pagina_inicial');
+			
+	    }else{
+
+
+			$this->load->view('standardLoads');
+			$this->load->view('pagina_inicial');
+
+
+	    }
+
 	}
 
 	public function segundapagina()
