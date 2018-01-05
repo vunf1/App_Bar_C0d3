@@ -43,27 +43,27 @@ icons fb/twitter
 <div class=" max-width">
     <div class="">
       <div class="">
-        <ul class="event-list">
+        <ul class="event-list ">
 
-          <li>
-            <img alt="Jogos" id="jogos" src="<?php echo base_url('application/views/'); ?>event.gif" />
+          <li id='list-event'>
+            <img alt="Eventos" src="<?php echo base_url('application/views/'); ?>event.gif" />
             <div class="info">
               <h2 class="title">Eventos</h2>
               <p class="desc">Aqui vai estar todo os eventos futuros da Casa</p>
             </div>
           </li>
 
-          <li>
-            <img alt="Bebidas Alcoolicas" src="<?php echo base_url('application/views/'); ?>giphy.webp" />
+          <li id='list-bebidas'>
+            <img alt="Bebidas Alcoolicas" src="<?php echo base_url('application/views/'); ?>0drinks.gif" />
             <div class="info">
-              <h2 class="title">Bebidas Alcoolicas</h2>
-              <p class="desc">Aqui vai estar todo o tipo de bebida com alcool</p><br>
-              <p class="desc">Este tipo de bebida so e vendida a maiores de 18 anos. <br> *Esta sujeito a apresentacao do cartao de cidadao.</p>
+              <h2 class="title">Bebidas </h2>
+              <p class="desc">Aqui vai estar todo o tipo de bebida</p><br>
+              <p class="desc-allert">Este tipo de bebida só é vendida a maiores de 18 anos. <br> *Está sujeito à apresentação do cartão de cidadão.</p>
 
             </div>
 
           </li>
-          <li>
+          <li id='list-comida'>
             <img alt="Comida"  id="comida" src="<?php echo base_url('application/views/'); ?>muffin.gif" />
             <div class="info">
               <h2 class="title">Comida</h2>
@@ -72,7 +72,7 @@ icons fb/twitter
           </li>
 
 
-          <li>
+          <li id='list-jogos'>
             <img alt="Jogos" id="jogos" src="<?php echo base_url('application/views/'); ?>jogos.gif" />
             <div class="info">
               <h2 class="title">Jogos</h2>
@@ -80,8 +80,8 @@ icons fb/twitter
             </div>
           </li>
 
-          <li>
-            <img alt="Jogos" id="jogos" src="<?php echo base_url('application/views/'); ?>house.gif" />
+          <li id='list-horario'>
+            <img alt="Horario" src="<?php echo base_url('application/views/'); ?>house.gif" />
             <div class="info">
               <h2 class="title">Horario</h2>
               <p class="desc">Aqui vai estar o horario da Casa</p>

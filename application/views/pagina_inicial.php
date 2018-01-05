@@ -15,7 +15,7 @@
 
           <br><br><br><br>
         <div class="botao1 centered" >
-  <img src="<?php echo base_url(); ?>galaxia_logo.png" alt="Enjoy" width="auto" height="100%">
+  <img src="<?php echo base_url(); ?>galaxia_logo.gif" alt="Enjoy" width="auto" height="100%">
 
         </div>
     </div>

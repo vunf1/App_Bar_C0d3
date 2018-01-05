@@ -46,5 +46,14 @@ class PageInicial extends CI_Controller {
 	}
 
 
+	public function bebidas()
+	{
+
+		$this->load->view('pagina_bebidas');
+	
+	}
+
+
+
 
 }

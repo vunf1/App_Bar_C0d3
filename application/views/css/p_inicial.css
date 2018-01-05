@@ -129,7 +129,7 @@ html,body{
     list-style: none;
     font-family: 'Lato', sans-serif;
     padding: 10px;
-    margin: 30px;
+    margin: 20px;
 
   }
   .event-list > li {
@@ -139,32 +139,8 @@ html,body{
 
     margin: 0px 0px 20px;
   }
-  .event-list > li > time {
-    display: inline-block;
-    width: 100%;
-    color: rgb(255, 255, 255);
-    background-color: rgb(197, 44, 102);
-
-    text-align: center;
-    text-transform: uppercase;
-  }
-  .event-list > li:nth-child(even) > time {
-    background-color: rgb(165, 82, 167);
-  }
-  .event-list > li > time > span {
+  .event-list > li > span {
     display: none;
-  }
-  .event-list > li > time > .day {
-    display: block;
-    font-size: 56pt;
-    font-weight: 100;
-    line-height: 1;
-  }
-  .event-list > li time > .month {
-    display: block;
-    font-size: 24pt;
-    font-weight: 900;
-    line-height: 1;
   }
   .event-list > li > img {
     width: 100%;
@@ -182,6 +158,13 @@ html,body{
     font-size: 13pt;
     font-weight: 300;
     margin: 0px;
+    width: 100%;
+  }
+  .desc-allert {
+    font-size: 0.8em;
+    font-weight: 300;
+    margin: 0px;
+    width: 100%;
   }
   .event-list > li > .info > ul,
   .event-list > li > .social > ul {
